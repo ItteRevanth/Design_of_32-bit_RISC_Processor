@@ -1,0 +1,10 @@
+# KERNEL: R0 -  0
+# KERNEL: R1 - 10
+# KERNEL: R2 - 20
+# KERNEL: R3 - 25
+# KERNEL: R4 - 30
+# KERNEL: R5 - 55
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (45): $finish called.
+# KERNEL: Time: 300 ns,  Iteration: 0,  Instance: /MIPS_test,  Process: @INITIAL#41_2@.
+# KERNEL: stopped at time: 300 ns
+# VSIM: Simulation has finished.
